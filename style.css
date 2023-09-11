@@ -180,8 +180,7 @@ text-decoration: none;
 }
 
 body{
-  background-image: url("background.png");
+  background-image: url("0.png");
   background-repeat: no-repeat;
-background-size: 70%;
-  background-position: center;
+background-size: 100%;
 }
